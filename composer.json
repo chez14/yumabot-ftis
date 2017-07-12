@@ -1,0 +1,14 @@
+{
+    "name": "chez14/yumabot-ftis",
+    "description": "Server status scrapper",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Gunawan Christianto",
+            "email": "gunawan.mr.blue@gmail.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {}
+}
